@@ -5,7 +5,7 @@
 
 ## Hello there! :metal:
 
-My name is Lucca, I am Cloud developer at IBM.
+My name is Lucca, I am Software Engineer at ThoughtWorks.
 
 - 💻 Kubernetes, React, Angular, Nodejs etc.
 - 📩 Any help? Send me an [e-mail](mailto:luccadiass@gmail.com).
