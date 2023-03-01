@@ -5,7 +5,7 @@
 
 ## Hello there! :metal:
 
-My name is Lucca, I am Software Engineer at ThoughtWorks.
+My name is Lucca, I work as software engineer for 6 years and my goals are help the people with technology and bring black people to the development world. 
 
 - 💻 Kubernetes, React, Angular, Nodejs etc.
 - 📩 Any help? Send me an [e-mail](mailto:luccadiass@gmail.com).
